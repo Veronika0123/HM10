@@ -1,0 +1,19 @@
+img{    
+    border-radius: 50%;
+    width: 150px;
+    display:block;
+    position: relative;
+    margin:0 auto;
+}
+
+.card1{
+    padding: 100px 0px;
+}
+
+button{
+    color: white;
+    background-color: rgb(77, 165, 132);
+    border: 0px;
+    padding: 5px 30px;
+   
+}
